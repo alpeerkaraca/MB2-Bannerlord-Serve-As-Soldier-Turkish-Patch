@@ -1,0 +1,288 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Türkçe" />
+  </tags>
+  <strings>
+    <string id="FLT0000000" text="{HERO} Şu kademeye terfi etti > {TIER}" />
+	<string id="FLT0000001" text="{HERO}, Askerliğini yerine getirmek için yeterince uzun süre görev yaptın. Onurlu bir şekilde emekli olup teçhizatını elinde tutabilirsin ama yetenekli askerlere ihtiyacım var. Yeniden üye olmaya istekliysen sana 25000 {COIN} bonus teklif edeceğim" />
+	<string id="FLT0000002" text="Birliğinde devam edeceğim" />
+	<string id="FLT0000003" text="Emekli olacağım" />
+	<string id="FLT0000004" text="{HERO}, Eşi benzeri olmayan bir savaşçı olduğunuzu gösterdiniz. Yüzlerce düşmanım senin ellerinde öldü. Krallığımda senin gibi insanlara ihtiyacım var. Seni krallığımın bir vasalı yapmaya hazırım. Kabul edersen sana cömert bir ikramiye vereceğim" />
+	<string id="FLT0000005" text="Hizmetlerinin ödülü olarak sana kişisel tımarın olarak {FIEF} yerleşkesini vereceğim" />
+	<string id="FLT0000006" text="Benim yerim bir asker olarak savaş meydanı" />
+	<string id="FLT0000007" text="Fikrini değiştirirsen benimle tekrar konuş" />
+    <string id="FLT0000008" text="Size hizmet etmek benim için bir onurdur efendim" />
+	<string id="FLT0000009" text="Hizmetiniz için ödül olarak size toplam 500000 {COIN} vereceğim" />
+	<string id="FLT0000010" text="{HERO}, Krallığımızın lideri olan {KING}, sana bir mesaj iletmemi istedi.  {KING_GENDER_PRONOUN} krallığımızda size bir lordluk teklif etme konusunda sizinle şahsen konuşmak istiyor.  Birliğimi terk etmek için iznin var." />
+	<string id="FLT0000011" text="Burada kalmayı tercih ediyorum" />
+	<string id="FLT0000012" text="O zaman izninizle birlikten ayrılıyorum" />
+	<string id="FLT0000013" text="{HERO}, iyi bir savaşçı olduğunu kanıtladın. Cesaretiniz ve sadakatiniz için, sizi terfi ettirmeye karar verdim. Kampta kılıç ustamı ve zırh ustamı ziyaret edin, onlar size yeni rütbenize uygun teçhizatı sağlayacaklardır." />
+	<string id="FLT0000014" text="Bu bir onurdur Lordum" />
+	<string id="FLT0000015" text="Birliğinize katılmama izin verin" />
+	<string id="FLT0000016" text="Senin gibi aranan bir suçlunun saflarıma katılmasına izin vermem mümkün değil." />
+	<string id="FLT0000017" text="Seni savaş grubumda istemiyorum. Sen ve ben anlaşamıyoruz" />
+	<string id="FLT0000018" text="Bana teklif ettiğin lordluk hakkında" />
+	<string id="FLT0000019" text="{HERO}, eşi olmayan bir savaşçı olduğunu gösterdin. Yüzlerce düşmanım senin ellerinde öldü. Krallığımda senin gibi insanlara ihtiyacım var" />
+	<string id="FLT0000020" text="Size hizmet etmek benim için bir onurdur efendim" />
+	<string id="FLT0000021" text="Fikrimi değiştirdim" />
+	<string id="FLT0000022" text="Yerleşim yerini sana vereceğim" />
+	<string id="FLT0000023" text="Hizmetinin ödülü olarak kişisel tımarın" />
+	<string id="FLT0000024" text="Hizmetiniz için ödül olarak size toplam 500000 {COIN} vereceğim" />
+	<string id="FLT0000025" text="Tabiki katılabilirsin" />
+	<string id="FLT0000026" text="{HERO}, {FACTION} krallığındaki yüksek itibarın nedeniyle {TIER} kademeye yükseldin" />
+	<string id="FLT0000027" text="Ekipmanları değiştir" />
+	<string id="FLT0000028" text="Askerlele eğitim yap" />
+	<string id="FLT0000029" text="Lord'un partisinde yeterince adam yok ya da askerleri yaralı" />
+	<string id="FLT0000030" text="Savaş Komutları : Hepsi" />
+	<string id="FLT0000031" text="Komuta formasyonu savaş sırasında belirlenecek\nClick to toggle" />
+	<string id="FLT0000032" text="Savaş Komutları: Yalnızca Oyuncu Formasyonu" />
+	<string id="FLT0000033" text="Sadece oyuncunun dizilişi için komutlar savaş sırasında bağırılacak\nClick to toggle" />
+	<string id="FLT0000034" text="Turnuvaya katıl" />
+	<string id="FLT0000035" text="Krallıklarlardaki deneyimi görüntüle" />
+	<string id="FLT0000036" text="Ayrılmak için izin iste" />
+	<string id="FLT0000037" text="Farklı bir görev iste" />
+	<string id="FLT0000038" text="Haydutları pusuya düşürün" />
+	<string id="FLT0000039" text="Küçük bir haydut grubu, normal şekilde onları yakalamak için çevik olmak gerekir. Onları yakalamanın kolay yolu, bir şeylerin ters gitme ihtimali olsa da, saldırmaları için kandırmaktır." />
+	<string id="FLT0000040" text="Bunu yapmak için ata sahip olman gerekir" />
+	<string id="FLT0000041" text="Yaralısın" />
+    <string id="FLT0000042" text="Haydutlar tuzağa düşmedi" />
+	<string id="FLT0000043" text="Haydutlar tarafından kovalanırken bazı küçük yaralar aldınız." />
+	<string id="FLT0000044" text="Birliği terk et" />
+	<string id="FLT0000045" text=" {FACTION} krallığındaki itibarınızı zedeleyecektir." />
+	<string id="FLT0000046" text="Birliği terk etmek istediğinden emin misin? Bu, tüm Krallık ilişkilerine zarar verecek" />
+	<string id="FLT0000047" text="Evet" />
+	<string id="FLT0000048" text="Hayır" />
+	<string id="FLT0000049" text="Geri" />
+	<string id="FLT0000050" text="{HERO}, Şu anki görevinden memnun olmadığını duydum. Bunun yerine ne yapmayı tercih edersin?" />
+	<string id="FLT0000051" text=" {GOLD}{COIN} Bu altın torbası fikrinizi değiştirir mi?" />
+	<string id="FLT0000052" text="Tamam, bunu yapabilirsin." />
+	<string id="FLT0000053" text="Ayak işlerine bakabilirim." />
+	<string id="FLT0000054" text="Nöbetçilik yapmak istiyorum." />
+	<string id="FLT0000055" text="Yemekleri hazırlamak istiyorum." />
+	<string id="FLT0000056" text="Erzak aramak istiyorum." />
+	<string id="FLT0000057" text="Askerleri eğitmek istiyorum." />
+	<string id="FLT0000058" text="Nasıl istersen." />
+	<string id="FLT0000059" text="Tabii ki, iş için mükemmel bir insansın." />
+	<string id="FLT0000060" text="Üzgünüm, ama iş için gerekli becerilere sahip olduğunu düşünmüyorum." />
+	<string id="FLT0000061" text="Teşekkürler görüşürüz." />
+	<string id="FLT0000062" text="Çok ikna edici bir iddiada bulundun. Tamam, çavuşlarımdan biri olabilirsin." />
+	<string id="FLT0000063" text="Keşif seferlerine liderlik etmek istiyorum." />
+	<string id="FLT0000064" text="Çok ikna edici bir iddiada bulundun. İyi, izcilerime liderlik edebilirsin." />
+	<string id="FLT0000065" text="Vekiliniz olmak istiyorum." />
+	<string id="FLT0000066" text="Çok ikna edici bir iddiada bulundun. Tamam, benim vekilim olabilirsin." />
+	<string id="FLT0000067" text="Mühendis olmak istiyorum." />
+	<string id="FLT0000068" text="Çok ikna edici bir iddiada bulundun. Tamam mühendis olabilirsin" />
+	<string id="FLT0000069" text="Yaralılarla ilgilenmek istiyorum." />
+	<string id="FLT0000070" text="Çok ikna edici bir iddiada bulundun. Tamam, yaralılarla ilgilen" />
+	<string id="FLT0000071" text="Savaş stratejileri üzerine çalışmak istiyorum." />
+	<string id="FLT0000072" text="Çok ikna edici bir iddiada bulundun. Tamam, benim strateji uzmanım olabilirsin." />
+	<string id="FLT0000073" text="{HERO}, askerlik sözleşmenin süresi henüz dolmadı. Ayrıca yetenekli bir askeri kaybetmek istemem." />
+	<string id="FLT0000074" text="Anlıyorum. Görevime döneceğim." />
+	<string id="FLT0000075" text="Paraya ihtiyacım var. Gidebilirsin." />
+	<string id="FLT0000076" text="Kullanılacak ekipmanı seçin." />
+    <string id="FLT0000077" text="Devam et." />
+	<string id="FLT0000078" text="Kamp yapıyor." />
+	<string id="FLT0000079" text="Bekliyor." />
+	<string id="FLT0000080" text=" {TARGET_PARTY} Kovalıyor." />
+	<string id="FLT0000081" text=" {TARGET_PARTY} Takip ediyor." />
+	<string id="FLT0000082" text=" {TARGET_PARTY} Kaçıyor." />
+	<string id="FLT0000083" text=" {TARGET_PARTY} Yerleşkeye kaçıyor." />
+	<string id="FLT0000084" text=" {TARGET_SETTLEMENT} Savunuyor." />
+	<string id="FLT0000085" text=" {TARGET_SETTLEMENT} Baskın yapıyor." />
+	<string id="FLT0000086" text=" {TARGET_SETTLEMENT} Yerleşkesine kuşatma yapıyor." />
+	<string id="FLT0000087" text=" {TARGET_SETTLEMENT} Çevresinde devriye geziyor." />
+	<string id="FLT0000088" text="Devriye geziyo.r" />
+	<string id="FLT0000089" text="Seyahat ediyor." />
+    <string id="FLT0000090" text="Bir noktaya gitdiyor." />
+	<string id="FLT0000091" text=" {TARGET_PARTY} İlerliyor." />
+	<string id="FLT0000092" text=" {TARGET_PARTY} Yerleşkesine İlerliyor." />
+	<string id="FLT0000093" text="Bir yerleşime seyahat etmek." />
+	<string id="FLT0000094" text=" {TARGET_SETTLEMENT} Saldırıyor." />
+	<string id="FLT0000095" text=" {TARGET_PARTY} Takip ediyor." />
+	<string id="FLT0000096" text="Bilinmeyen Davranış" />
+	<string id="FLT0000097" text="Okçu Süvari" />
+	<string id="FLT0000098" text="Süvari" />
+	<string id="FLT0000099" text="Okçu" />
+	<string id="FLT0000100" text="Piyade" />
+	<string id="FLT0000101" text="Parti Durumu" />
+	<string id="FLT0000102" text="Ordu Durumu" />
+	<string id="FLT0000103" text="Askerliğe Başlangıç" />
+	<string id="FLT0000104" text="Askerlik Rütbesi" />
+	<string id="FLT0000105" text="Formasyon" />
+	<string id="FLT0000106" text="Maaş" />
+	<string id="FLT0000107" text="Mevcut Deneyim" />
+	<string id="FLT0000108" text="Sonraki Seviye Deneyimi" />
+	<string id="FLT0000109" text="Görev : " />
+	<string id="FLT0000110" text="Ayak işleri için görevlendirildin . Çoğu görev yorucu ve önemsiz iş gücü gerektirir (Atletizim Gelişimi)" />
+	<string id="FLT0000111" text="Nöbet tutma görevine görevlendirildin. Birlikte davetsiz misafirler için nöbet tutarak birçok uykusuz gece geçirirsiniz (İzcilik Gelişimi)" />
+	<string id="FLT0000112" text="Aşçı olarak görevlendirildin. Kamp yemeklerini mevcut sınırlı malzemelerle hazırlamalısın (Vekillik Gelişimi)" />
+	<string id="FLT0000113" text="Yiyecek bulmak için görevlendirildin. Yiyecek aramak için yakındaki kırsalda geziniyorsun. (Binicilik Gelişimi)" />
+	<string id="FLT0000114" text="Hekim olarak görevlendirildin. Yaralı askerlere bakmakla görevlisin. (Hemkimlik Gelişimi)" />
+	<string id="FLT0000115" text="Mühendis olarak görevlendirildin. Birlik için kuşatma silahları yapıyorsun. (Mühendislik Gelişimi)" />
+	<string id="FLT0000116" text="Vekil olarak görevlendirildin. Birliğin düzeninden ve maaşlardan sorumlusun. (Vekillik Gelişimi)" />
+	<string id="FLT0000117" text="Keşif ekiplerine lider olarak görevlendirildin. Sen ve adamların düşman gruplarını ve zorlu arazilerden geçişleri arayarak geçiriyorsun. (İzcilik Gelişimi)" />
+	<string id="FLT0000118" text="Çavuş olarak görevlendirildin. Askerleri savaş ve disiplin konusunda eğiticeksin. (Liderlik Gelişimi)" />
+	<string id="FLT0000119" text="Strateji uzmanı olarak görevlendirildin. Komutanla taktikleri gözden geçiriyorsun. (Taktik Gelişimi)" />
+	<string id="FLT0000120" text="Mevcut görevin yok. Boş zamanınızı içerek ve kumar oynarak geçiriyorsun." />
+	<string id="FLT0000121" text="Siz sefil kurtçuklara nasıl dövüşüleceğini öğretmek için buradayım, o yüzden beni dinleyip dediğim her şeyi yapsanız iyi olur!" />
+	<string id="FLT0000122" text="Acemi askerleri kontrol edip yükseltmek için savaşarak DP kazan." />
+	<string id="FLT0000123" text="Yeterli DP elde etmeden askerlere yenilirsen başarısız olursun." />
+	<string id="FLT0000124" text="Askerler kaldı." />
+	<string id="FLT0000125" text="Eğitim tamamlandı." />
+	<string id="FLT0000126" text="Eğitim ilerlemesi." />
+	<string id="FLT0000127" text="Eğitim bitmeden ayrılamazsınız!" />
+	<string id="FLT0000128" text="Askerlerin dinlenmek ve iyileşmek için zamana ihtiyacı var. Savaşacak kimse kalmadı." />
+	<string id="FLT0000129" text="Kendimi ciddi şekilde yaralamadan önce durmalıyım." />
+	<string id="FLT0000130" text="Sen kazandın, ben vazgeçtim!" />
+	<string id="FLT0000131" text="Ah bu gerçekten acıttı, işim bitti!" />
+	<string id="FLT0000132" text="Şanlıydın, bir dahaki sefere seni yeneceğim!" />
+	<string id="FLT0000133" text="Bu yaralar kolay kolay iyileşmeyecek!" />
+	<string id="FLT0000134" text="İyi dövüştün dostum!" />
+	<string id="FLT0000135" text="Bunu kabul etmemeliydim!" />
+	<string id="FLT0000136" text="Ahhh! Sanırım bu bir kemiği kırdı!" />
+	<string id="FLT0000137" text="Eğitim silahlarının bu kadar acıtacağını beklemiyordum!" />
+	<string id="FLT0000138" text="Adil değil, hile yaptın!" />
+	<string id="FLT0000139" text="Teslim oluyorum!" />
+	<string id="FLT0000140" text="Piyade" />
+	<string id="FLT0000141" text="Okçu" />
+	<string id="FLT0000142" text="Süvari" />
+	<string id="FLT0000143" text="Okçu Süvari" />
+	<string id="FLT0000144" text="Cidacı" />
+	<string id="FLT0000145" text="Ağır piyade" />
+	<string id="FLT0000146" text="Hafif Süvari" />
+	<string id="FLT0000147" text="Ağır Süvari" />
+	<string id="FLT0000148" text="{HERO}, İyi iş çıkardın, acemiler artık kılıç tutabilirler. [rf:very_positive_hi, rb:very_positive]" />
+	<string id="FLT0000149" text="Sadece işimi yapıyorum!" />
+	<string id="FLT0000150" text="{HERO} Senden daha iyisini beklerdim![rf:very_positive_ag, rb:very_positive]" />
+	<string id="FLT0000151" text="Üzgünüm lordum" />
+	<string id="FLT0000152" text="{HERO} Senin için bir görevim var! Bir savaşta pek işe yaramayacak bir sürü yeni askerim var. Onları eğitmeni ve ordunun geri kalanını yakalamalarını istiyorum. Antrenman yapmak için arenadaki idman ekipmanlarını kullanabilirsiniz.[rf:very_positive_ag, rb:very_positive]" />
+	<string id="FLT0000153" text="Elbette lordum!" />
+	<string id="FLT0000154" text="Bir grup köylüyü bir gecede askere çeviremem, bunu ancak birçok savaşın denemeleri yapabilir." />
+	<string id="FLT0000155" text="Teşekkürler {HERO}, Beni kurtardın![rf:very_positive_hi, rb:very_positive]" />
+	<string id="FLT0000156" text="{HERO} İyi misin?[rf:unsure_hi, rb:unsure]" />
+	<string id="FLT0000157" text="İyiyim. Haydutların kaçmasına izin verdiğim için üzgünüm" />
+	<string id="FLT0000158" text="Kendini kötü hissetme, haydutlar sayıca fazlaydı. O kadar kişiye karşı hiç şansın yoktu. O savaşın yarattığı kargaşa kasabadaki her muhafızın dikkatini çekti. Haydutlar o kadar hızlı kaçmak zorunda kaldılar ki hiçbir eşyamı yanlarına alamadılar." />
+	<string id="FLT0000159" text="Yardımcı olduğuma sevindim" />
+	<string id="FLT0000160" text="Muhafızlar! Muhafızlar! {ROBBER}'ın haydutları dükkanımdaki tüm malları çalıyor! Onlar kaçmadan çabuk gelin![rf:very_negative_hi, rb:very_negative]" />
+	<string id="FLT0000161" text="Ben bir askerim, gardiyan değil! Bu beni ilgilendirmez!" />
+	<string id="FLT0000162" text="{RIVAL_GANG_LEADER}'in partisi" />
+	<string id="FLT0000163" text="Grubunuzdan birkaç adam sizi buldu ve kampa geri getirdi." />
+	<string id="FLT0000164" text="Aferin {HERO}, işte sana söz verdiğim para![rf:very_positive_hi, rb:very_positive]" />
+	<string id="FLT0000165" text="Kolayca altın kazanmak ister misin? {RIVAL} adındaki biriyle bir sorunum var. {GENDER_PRONOUN}, korumamız altındaki dükkan sahiplerini rahatsız ediyor, para talep ediyor ve tehditler savuruyor. Sana bir şey söyleyeyim - o dükkan sahipleri benim ineklerim ve başka kimse onları sağamaz. Ben ve çocuklarım onlara bir ders vermek için can atıyoruz ama biraz fazla adamın zararı olmaz diye düşünüyorum." />
+	<string id="FLT0000166" text="Kolay altın diyorsun, yaz beni!" />
+	<string id="FLT0000167" text="Bu işe dahil olmak istemiyorum" />
+	<string id="FLT0000168" text="Askerler! Silahlarınızı hazırlayın! Bu kaçak avcı pisliklerini bir daha buraya gelmemeleri için uyarmıştım!   [rf:very_negative_hi, rb:very_negative]" />
+	<string id="FLT0000169" text="O piçlere bir ders verme zamanı!" />
+	<string id="FLT0000170" text="Köyümüzü koruduğunuz için çok teşekkür ederiz![rf:very_positive_hi, rb:very_positive]" />
+	<string id="FLT0000171" text="Askerler! Bir süre bu köyde kalacağız. Yerliler bana bir grup asker kaçağının köylüleri rahatsız ettiğini söylediler. Evlerde saklanacağız ve tekrar ortaya çıktıklarında haydutları pusuya düşüreceğiz." />
+	<string id="FLT0000172" text="Saldırı altındayız! Askerleri silahlandırmak için alarmı çal!  [rf:very_negative_hi, rb:very_negative]" />
+	<string id="FLT0000173" text="Hemen hazırlanıyoruz." />
+	<string id="FLT0000174" text="Haydut Pusu Partisi" />
+	<string id="FLT0000175" text="Perişan olmuş köyün içinden geçerken özellikle kanla kaplı bir ev dikkatinizi çekiyor. Yaklaştıkça burnunuza ölüm kokusu geliyor. Burada ne olduğu senin için netleşti. Bu evin cesur ama aptal ailesi geride kalmaya ve sahip oldukları küçük şeyleri savunmaya karar vermiş. Ordunuzun askerlerinin masum insanları katledenlere karşı sabrı kalmamış gibi duruyor." />
+	<string id="FLT0000176" text="Aniden ağlama ve çığlık sesi duyuyorsun. Biri hala içeride olmalı. Araştırmak için içeri girdiğinizde, gürültünün kaynağını çabucak buluyorsunuz. Bu bir çocuk, bir bebekten biraz daha büyük. Daha önce gelen askerler ya farketmediler ya da çocuğu öldürmeye cesaret edemediler. Tüm köylüler sürüldükten sonra, herhangi birinin geri dönmesinin günler hatta haftalar sürebileceğini biliyorsunuz ve o zamana kadar çocuğa ne olacağından emin değilsiniz." />
+	<string id="FLT0000177" text="Çocuğu yanına al" />
+	<string id="FLT0000178" text="Ayrıl" />
+	<string id="FLT0000179" text="{HERO}, {CHILD} adında bir çocuğu evlat edindi" />
+	<string id="FLT0000180" text="Piyade" />
+	<string id="FLT0000181" text="Okçu" />
+	<string id="FLT0000182" text="Süvari" />
+	<string id="FLT0000183" text="Eğitim türünü seçin" />
+	<string id="FLT0000184" text="Düşman köylülere saldır" />
+	<string id="FLT0000185" text="Düşman köylülere saldırmak için süvari ile dışarı çıkın" />
+	<string id="FLT0000186" text="Köylüler kaçmayı başardı" />
+	<string id="FLT0000187" text="Süvari Müfrezesi" />
+	<string id="FLT0000188" text="Düşman karavana saldır" />
+	<string id="FLT0000189" text="Düşman kervanına saldırmak için süvari ile dışarı çıkın" />
+	<string id="FLT0000190" text="Düşman karavan kaçmayı başardı" />
+	<string id="FLT0000191" text="Serving As Soldier Üssü" />
+	<string id="FLT0000192" text="Hekimlik Yeteneği" />
+	<string id="FLT0000193" text="{HERO}, kendini iyi bir savaşçı olacak kadar kanıtladın.  Cesaret ve sadakatin için, sana terfi vermeye karar verdim.  Komutanlarımdam biri olarak servis edebilir ve benim emrimdeyken kendi akraba ve yoldaşlarını toplama ayrıcalığına sahipsin.  Elbette maaşlarını da ben ödeyeceğim." />
+	<string id="FLT0000194" text="Maiyeti Yönet" />
+	<string id="FLT0000195" text="Tek-Elli : " />
+	<string id="FLT0000196" text="Çift-Elli : " />
+	<string id="FLT0000197" text="Gönderli : " />
+	<string id="FLT0000198" text="Yay : " />
+	<string id="FLT0000199" text="Kundaklı Yay : " />
+	<string id="FLT0000200" text="Fırlatma : " />
+	<string id="FLT0000201" text="Binicilik : " />
+	<string id="FLT0000202" text="Atletizm : " />
+	<string id="FLT0000203" text="Sana katılacak yoldaş(lar)ı seç." />
+	<string id="FLT0000204" text="Fırlatma" />
+	<string id="FLT0000205" text="Serve As Soldier : Gönüllü askerken kazanılan turnuvalar terfi için 50% fazla deneyim puanı verir." />
+	<string id="FLT0000206" text="Serve As Soldier : Birliklerle eğitim yapmak dövüş yeteneğinize 50% fazla deneyim puanı verir." /> 
+	<string id="FLT0000207" text="Serve As Soldier : Birliklerle eğitim yaparken yere sermeler 0.1 nam verir." /> 
+	<string id="FLT0000208" text="Serve As Soldier : Savaşta askerken gerçekleştirdiğin yere sermeler 0.3 nam verir." /> 
+	<string id="FLT0000209" text="Serve As Soldier : Savaşta ayakta dövüşürken yere sermek 0.3 nam verir." /> 
+	<string id="FLT0000210" text="Serve As Soldier : Maaşlar 20% arttı." />
+	<string id="FLT0000211" text="Serve As Soldier : Savaşlarda menzilli saldırılarla yapılan yere sermeler 0.3 nam verir." /> 
+	<string id="FLT0000212" text="Serve As Soldier : Savaşlarda kafa vuruşları daha fazla deneyim puanı verir." /> 
+	<string id="FLT0000213" text="Serve As Soldier : Savaşlarda 50 metre ve uzağından gerçekleşen kundaklı yay vuruşları ekstra yetenek deneyimi verir." /> 
+	<string id="FLT0000214" text="Serve As Soldier : At sırtındayken gerçekleşen kundaklı yay vuruşları ekstra yetenek deneyimi verir." /> 
+	<string id="FLT0000215" text="Serve As Soldier : Savaşta yere serilen her düşman lordu için 1000 Dinar bonus alırsın." />
+	<string id="FLT0000216" text="Serve As Soldier : Birliklerle eğitimdeyken fırlatmalı silahlarla gerçekleşen yere sermeler 0.2 nam verir." />
+	<string id="FLT0000217" text="Antrenmandan {SKILL} için bir odak puanı kazanıldı." />
+	<string id="FLT0000218" text="Antrenmandan {ATTRIBUTE} için bir özellik puanı kazanıldı." />
+	<string id="FLT0000219" text="Yedekte Bekle" />
+	<string id="FLT0000220" text="Yedekte Bekliyorsun" />
+	<string id="FLT0000221" text="Orduda 100' den az sağlam asker varsa yedekte bekleyemezsin. " />
+	<string id="FLT0000222" text="Savaşa Tekrar Katıl." />
+	<string id="FLT0000223" text="Günlük görevden {SKILL} için odak puanı kazandın." /> 
+	<string id="FLT0000224" text="Günlük görevden {ATTRIBUTE} için özellik puanı kazandın" /> 
+	<string id="FLT0000225" text="Karakter değiştirmek için U 'ya bas" />
+	<string id="FLT0000226" text="{CHARACTER} olarak oynanıyor" />
+	<string id="FLT0000227" text="Oto-Eğitim için H 'ye bas" />
+	<string id="FLT0000228" text="Yenilen Rakipler : {KILLS}" />
+	<string id="FLT0000229" text="{LORD}, {HERO}'yi askere aldı." />
+	<string id="FLT0000230" text="{HERO}, daha fazla {CLAN}'a çalışmıyor. " />
+	<string id="FLT0000231" text="Karşı tarafa geç" />
+	<string id="FLT0000232" text="Sadece bir krallığın parçası olan lordlara hizmet edebilirsin." />
+	<string id="FLT0000233" text="Durum Bildirildi" />
+	<string id="FLT0000234" text="Beraberimde senin gibi birini bulundurabilirim." />
+	<string id="FLT0000235" text="Üzgünüm ama Lordum {LORD} 'a hizmet etmekten mutluyum." />
+	<string id="FLT0000236" text="Üzgünüm, sen ve ben pek anlaşamayız." />
+	<string id="FLT0000237" text="Elbette, ancak ederim ucuz değildir.{LORD} 'la olan sözleşme fesih ücreti ve kendime biraz da kenara koymalık pay olarak alacak yeterli Dinara ihtiyacım var.  Toplamda, {GOLD}{COIN} yeterli olacaktır." />
+	<string id="FLT0000238" text="Elbette, ancak ederim ucuz değildir.  Toplamda, {GOLD}{COIN} 'e ihtiyacım var." />
+	<string id="FLT0000239" text="Haydi Han'a bir tur içki içmeye gidelim!  Hesaplar Benden!" />
+	<string id="FLT0000240" text="Tam olarak ne planlıyorsun?  İçeceğime zehir katmaya mı yoksa ben uyuklarken altın heybemi çalmaya mı çalışıyorsun? Yaptığın şeyin iyi olmadığını söyleyebilirim.  Şimdi eğer söyleyecek başka şeyin yoksa, yıkıl karşımdan ve siktir git." />
+	<string id="FLT0000241" text="Teklif için teşekkürler ancak daha fazla içersem komutanım derimi yüzer." />
+	<string id="FLT0000242" text="Düzgünce içmeyeli yıllar oldu!  Hadi Gidelim!" />
+	<string id="FLT0000243" text="Sağ olun kaptan ancak daha fazla içersem görevlerimi tamamlayamam." />
+	<string id="FLT0000244" text="Yaralanmış görünüyorsun.  Yaralarını sarmama izin ver. Ne de olsa bu kampın cerrahıyım." />
+	<string id="FLT0000245" text="Seni değersiz sünepe serseri!  SEN NEREDE NE ZAMA..- Her neyse.  Acele et ve İŞİNİ BİTİR!" />
+	<string id="FLT0000246" text="{BODY_PART} 'ma bakabilir misin? Çok acıyor." />
+	<string id="FLT0000247" text="Kafa" />
+	<string id="FLT0000248" text="Kol" />
+	<string id="FLT0000249" text="Boyun" />
+	<string id="FLT0000250" text="Göğüs" />
+	<string id="FLT0000251" text="Bacak" />
+	<string id="FLT0000252" text="Ayak" />
+	<string id="FLT0000253" text="El" />
+	<string id="FLT0000254" text="Sırt" />
+	<string id="FLT0000255" text="Yağmaya katılın" />
+	<string id="FLT0000256" text="kill, plunder, rape- you need to download captivity events mod for that option\nThis might harm relations with other soldiers in the party who have the merciful trait." />
+	<string id="FLT0000257" text="Her ne pahasına olursa olsun yurdumuzu koruyacağız!" />
+	<string id="FLT0000258" text="Bu köyü zaten yağmaladın." />
+	<string id="FLT0000259" text="Köylü domuzları katledin ve değerli neleri varsa alın!" />
+	<string id="FLT0000260" text="Değerli ganimetler alınmadan yola koyulsam iyi olur!" />
+	<string id="FLT0000261" text="Yalvarırım merhamet et!" />
+	<string id="FLT0000262" text="Lütfen çocuğu bağışla!" />
+	<string id="FLT0000263" text="Sana her şeyimi veririm, lütfen beni bağışla!" />
+	<string id="FLT0000264" text="İMDAAT! İMDAAT!" />
+	<string id="FLT0000265" text="Teslim Oluyorum!" />
+	<string id="FLT0000266" text="Köyümüzden çık seni bok parçası!" />
+	<string id="FLT0000267" text="Birliklerinde Eğitim Yap" />
+	<string id="FLT0000268" text="Antrenmanını sonlandırmak istiyor musun?" />
+	<string id="FLT0000269" text="Askerleri eğitme görevi" />
+	<string id="FLT0000270" text="Arenayı Terk Et?" />
+	<string id="FLT0000271" text="Antrenman tamamlanmadan ayrılmak görevin başarısız olmasına sebep olur.\nArena Terk Edilsin Mi?" />
+	<string id="FLT0000272" text="Komutan bu şehre merhamet göstermeye karar verdi." />
+	<string id="FLT0000273" text="Öldürmelere izin verilmedi, ancak yine de mülk alarak yüksek miktarda gelir sağlayabilirsin.\nYağmaya katılmak itibarını ve kişiliğini etkileyecek." />
+	<string id="FLT0000274" text="Birliğinden birisiyle konuşabilir miyim?" />
+	<string id="FLT0000275" text="Bunun yerine benimle çalışmaya ne dersin?  Belki de bu altın kesesi {GOLD}{COIN}  seni ikna eder?" />
+	<string id="FLT0000276" text="Böylesi cömert bir teklifi nasıl göz ardı ederim.  Önünde bir anlaşma var!" />
+	<string id="FLT0000277" text="Benim sadakatimi altınla SATIN ALAMAZSIN!" />
+	<string id="FLT0000278" text="" />
+	<string id="FLT0000279" text="" />
+  </strings>
+</base>
